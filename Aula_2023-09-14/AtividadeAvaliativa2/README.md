@@ -1,5 +1,14 @@
 # Atividade avaliativa 2
 
+<p>INSTITUTO FEDERAL DO TOCANTINS - CAMPUS ARAGUAÍNA</p>
+<p>19 de setembro de 2023, terça-feira</p>
+<p>Estudantes: Beatriz Coelho dos Santos, Gustavo Brunno Lucena e Silva, Juan Felipe Alves Flores, Samylla Marinho da Silva Aguiar.</p>
+<p>Turma: 2° Período ADS</p>
+<p>Professor: José Roberto Cruz e Silva</p>
+<p>Disciplina: Estrutura de Dados I</p>
+
+<hr></hr>
+
 <p>
 Para essa atividade avaliativa forme grupos de até 5 integrantes.
 </p>
