@@ -17,6 +17,8 @@ A atividade consistirá em duas partes, a pesquisa e a implementação. A pesqui
 2. Pesquise como ocorre a gravação e leitura em arquivos na linguagem python. Faça uma descrição breve do resultado encontrado na pesquisa.
 </p>
 
+[Clique aqui para acessar o documento com as perguntas e respostas desta atividade.](https://docs.google.com/document/d/1Ak_UZE2gLey7OJPe6VeZRW9h2FCHlzz_-9QKvmBVKLQ/edit?usp=sharing)
+
 ### IMPLEMENTAÇÃO (8,0 pontos)
 
 <p>
@@ -38,7 +40,5 @@ A atividade consistirá em duas partes, a pesquisa e a implementação. A pesqui
 <p>
 5. (2,0 pontos) Crie uma função que grave o resultado das pesquisas realizadas. (Observação: entregue o arquivo da implementação com o resultado dos testes realizados nessa função)
 </p>
-
-[Clique aqui para acessar o documento com as perguntas e respostas desta atividade.](https://docs.google.com/document/d/1Ak_UZE2gLey7OJPe6VeZRW9h2FCHlzz_-9QKvmBVKLQ/edit?usp=sharing)
 
 <p>Data: 20 de setembro de 2023 (2023-09-20)<p>
