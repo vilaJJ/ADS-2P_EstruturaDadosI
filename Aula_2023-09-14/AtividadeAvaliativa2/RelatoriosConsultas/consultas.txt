@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------
+Consulta realizada em: 20/09/2023 12:32:45
+
+ID: 3
+Nome: Barbara Ohana
+Email institucional: barbara.santos@estudante.ifto.edu.br
+----------------------------------------------------------------------------------------------------
+Consulta realizada em: 20/09/2023 12:33:28
+
+ID: 1
+Nome: Samylla Marinho
+Email institucional: samylla.aguiar@estudante.ifto.edu.br
+----------------------------------------------------------------------------------------------------
+Consulta realizada em: 20/09/2023 12:35:20
+
+ID: 4
+Nome: Beatriz Coelho
+Email institucional: beatriz.santos@estudante.ifto.edu.br
+----------------------------------------------------------------------------------------------------
+Consulta realizada em: 20/09/2023 12:35:24
+
+ID: 2
+Nome: Juan Felipe
+Email institucional: juan.flores@estudante.ifto.edu.br
+----------------------------------------------------------------------------------------------------
+Consulta realizada em: 20/09/2023 12:35:28
+
+ID: 5
+Nome: Gustavo Brunno
+Email institucional: gustavo.silva@estudante.ifto.edu.br
