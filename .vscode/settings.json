@@ -1,7 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Aula_2023-11-30/Listas/listas/src/main/java",
+        "Aula_2023-11-30/Filas/filas/src/main/java",
+        "Aula_2023-11-16/pilhas/src/main/java",
         "Aula_2023-11-16/listas/src/main/java",
         "Aula_2023-11-16/filas/src/main/java",
-        "Aula_2023-11-16/pilhas/src/main/java"
+        "Aula_2023-11-30/Pilhas/pilhas/src/main/java"
     ]
 }

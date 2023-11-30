@@ -3,7 +3,7 @@ package dev.mandevilla;
 // Bibliotecas utilizadas
 import java.util.Stack;
 
-public class Pilhas {
+public class PilhasInteger {
     public static void main(String[] args) {
         System.out.println("-------------------------------------------------------------------------");
 

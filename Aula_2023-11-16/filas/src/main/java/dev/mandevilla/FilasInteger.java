@@ -3,7 +3,7 @@ package dev.mandevilla;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Filas {
+public class FilasInteger {
     public static void main(String[] args) {
         // Criando fila
         Deque<Integer> fila = new ArrayDeque<>();
